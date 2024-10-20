@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "name": "Do exercise",
+        "priority": "Medium",
+        "completed": true,
+        "ongoing": false,
+        "start_date": "2024-10-20 22:37:23",
+        "completion_date": "2024-10-20 22:37:29",
+        "category": "Personal",
+        "reminder_date": "2024-10-20"
+    },
+    {
+        "name": "Complete Project",
+        "priority": "High",
+        "completed": false,
+        "ongoing": true,
+        "start_date": "2024-10-20 22:37:52",
+        "completion_date": null,
+        "category": "Work",
+        "reminder_date": "2024-10-28"
+    },
+    {
+        "name": "Buy Groceries",
+        "priority": "High",
+        "completed": false,
+        "ongoing": false,
+        "start_date": "2024-10-20 22:39:01",
+        "completion_date": null,
+        "category": "Shopping",
+        "reminder_date": "2024-10-22"
+    }
+]

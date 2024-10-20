@@ -1,2 +1,2 @@
 # PYTHON_PROJECT
-Hi
+Development of a Python-based To-Do List Application, featuring task management, JSON storage, and data visualization.
